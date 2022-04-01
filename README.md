@@ -1,3 +1,3 @@
 # Pokemon Game
 
-essa eh a branch de desenvolvimento
+Essa é a Master da Develop!
